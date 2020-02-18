@@ -1,2 +1,5 @@
-# flutter_music_player_ui
-Flutter Music Player UI 
+# Flutter Music Player UI
+
+
+![Music Player](https://github.com/rezaghz/flutter_music_player_ui/blob/master/ui.jpg)
+
